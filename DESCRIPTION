@@ -1,0 +1,9 @@
+Package: DataCE
+Title: Data Set for Pretoria CE Training
+Version: 0.0.0.9000
+Authors@R: person("Damien", "Jourdain", email = "damien.jourdain@cirad.fr", role = c("aut", "cre"))
+Description: Two data sets: the choices and the choice sets
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
