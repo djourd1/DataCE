@@ -1,4 +1,4 @@
-"block","choiceset","quality_1","angling_1","access_1","surround_1","price_1","quality_2","angling_2","access_2","surround_2","price_2","quality_3","angling_3","access_3","surround_3","price_3"
+"block","choiceset","quality_SQ","angling_SQ","access_SQ","surround_SQ","price_SQ","quality_1","angling_1","access_1","surround_1","price_1","quality_2","angling_2","access_2","surround_2","price_2"
 3,1,1,0,0,0,0,3,1,0,1,650,2,1,1,1,200
 3,2,1,0,0,0,0,1,0,0,1,200,1,1,0,0,1200
 3,3,1,0,0,0,0,2,1,1,1,200,3,1,1,0,400
